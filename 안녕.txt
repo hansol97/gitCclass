@@ -1,0 +1,6 @@
+public class Hello{
+	
+
+	System.out.println("이거 깃허브 올리는 연습중임");
+
+}
